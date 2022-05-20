@@ -1,0 +1,95 @@
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.outerDiv{
+width: 100%;
+height: 604px;
+float:left;
+background:WHITE;
+
+}
+.innerDiv{
+width: 95%;
+height: 90%;
+float:left;
+background:#d3d3d3;
+margin:2.5% 0% 0 2.5%;
+}
+
+.headDiv{
+	width:100%;
+	height:9%;
+	float:left;
+	text-align:center;
+	border-bottom: 4px solid black;
+}
+
+h1{
+
+line-height:25%;
+}
+.leftDiv{
+	width:15%;
+	height:76%;
+	float:left;
+	border-right: 4px solid black;
+	padding:2% 0 0 5%;	
+}
+.rightDiv{
+	width:79.54%;
+	height:80%;
+	float:left;
+	text-align:center;
+	background:#ccddaa;
+	
+}
+.oneDiv{
+	width:45%;
+	height:35%;
+	float:right;
+	margin:1% 20% 0 0;
+	border: 2px solid grey;
+	border-radius: 2px;
+	text-align:right;
+	box-shadow: 0px 3px 2px 0px silver;
+	padding:3% 15% 0% 0%;
+}
+input[type=text], label{
+vertical-align:40%;
+}
+button{
+border-radius: 5px ;
+margin: 3% 28% 0 0;
+border: 1px solid black;
+}
+.twoDiv{
+	width:55%;
+	height:35%;
+	float:right;
+	margin:2% 20% 0 0;
+	border: 2px solid grey;
+	border-radius: 2px 2px 15px 15px;
+	box-shadow: 0px 3px 2px 0px silver;
+	padding:0 2.5% 0 2.5%;
+}
+
+
+.footDiv{
+	width:100%;
+	height:9.49%;
+	float:left;
+	text-align:center;
+	border-top: 4px solid black;
+ 	
+
+}
+strong{
+color:green;
+}
+
+img{
+height:80%;
+margin:0.3% 0 0 0;
+}
+
