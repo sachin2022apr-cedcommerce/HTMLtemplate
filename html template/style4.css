@@ -1,0 +1,37 @@
+.outerDiv{
+width: 1000px;
+height: 580px;
+float:left;
+
+}
+.innerDiv{
+width: 70%;
+height: 90%;
+float:left;
+background:#ededed;
+margin:3% 0 0 20%;
+}
+.leftDiv, .rightDiv{
+	width:42%;
+	height:52%;
+	float:left;
+	margin:5% 1% 0 5%;
+	background:white;
+}
+.downDiv{
+width:90%;
+height:28%;
+float:left;
+	margin:5% 0% 0 5%;
+	background:white;
+}
+img{
+margin:5% 0% 0 5%;
+width:90%;
+height:90%;
+}
+h1,h4,p{
+margin:2.5% 8% 0 7%;
+ text-align: justify;
+line-height: 125%;
+}
